@@ -1,7 +1,7 @@
 {
     "name": "PrayRobot", 
     "description": "A Telegram Best Artificial Intelligence Chat Bot , written in Python with Pyrogram",
-    "logo": "",
+    "logo": "https://graph.org/file/2a134808542c19612f280.jpg",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
