@@ -1,9 +1,9 @@
 ## About This Repository 
-Best Smart Artificial intelligence Chat bot For Telegram Groups 
-Click Below Picture To Open VChat Bot Owner Id...
+█▓▒▒░░░ͯPͯͯrͯͯaͯͯyͯ░░░▒▒▓█
 
 
-<p align="center"><a href="https://t.me/BikashHalder"><img src="https://te.legra.ph/file/e30f5a295dd0ca45f0163.jpg"></a></p>
+
+<p align="center"><a href="https://t.me/praythakur006"><img src="https://graph.org/file/274e6a63251ad84c9951b.jpg"></a></p>
 
 
 
